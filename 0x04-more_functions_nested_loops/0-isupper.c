@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main - check the code.
- *
+ *isupper - check if c is upper
+ *@c is input for alphapet
  * Return 1 if its uppercase , 0if not
  */
 int _isupper (int c)

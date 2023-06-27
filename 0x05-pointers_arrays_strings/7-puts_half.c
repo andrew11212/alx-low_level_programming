@@ -5,7 +5,7 @@
  *@str: char array
  * Return: nothing
  */
-void puts_half(char *str);
+void puts_half(char *str)
 {
 	int i;
 
